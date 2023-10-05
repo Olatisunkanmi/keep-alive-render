@@ -4,7 +4,9 @@
   "description": "Simple script to keep your free Render service alive",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon server.js"
+
   },
   "keywords": [],
   "author": "tobisupreme (Oluwatobi Balogun)",
